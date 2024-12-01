@@ -20,5 +20,3 @@ def fn_hack_10(s):
     
     return _strg
 
-text = [{"a":"b"},{"c","d"},{"e":"f"}]
-print(fn_hack_10(text))
